@@ -2,8 +2,8 @@ from pytube import YouTube
 from aiogram import Bot, types, Dispatcher, executor
 from googleapiclient.discovery import build
 
-API_TOKEN = '6003037192:AAHOSdVfOUkMsQgNzMbebR0dFzXeP36PHoc'
-YT_TOKEN = 'AIzaSyD6-8PNOZ6_rC1j78Br7A0VgAyt6UcrP1g'
+API_TOKEN = ''
+YT_TOKEN = ''
 
 bot = Bot(API_TOKEN)
 
